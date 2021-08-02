@@ -52,4 +52,4 @@ const soma = numbers.reduce((valorAnterior, valorAtual)=> {
     return valorAnterior + valorAtual
 })
 
-console.log(soma) //75
+console.log(soma) //70
